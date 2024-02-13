@@ -9,10 +9,13 @@ This repository serves as a demonstration of my proficiency in handling weather 
 ## Contents
 
 - **Data Preprocessing**: Explore techniques for cleaning, filtering, and preparing weather and climate datasets for analysis.
-- **Visualization**: Visualize weather and climate data using interactive plots, maps, and charts to uncover trends and patterns.
+- **Visualization**: More involved scripts for weather and climate data visualizations.
 - **Statistical Analysis**: Apply statistical methods to analyze weather data, including descriptive statistics, correlation analysis, and trend detection.
 - **Machine Learning**: Demonstrate machine learning techniques for weather forecasting, climate modeling, and predictive analytics.
-- **Examples**: Dive into real-world examples and case studies showcasing the application of data analysis techniques to weather and climate datasets.
+- **Numerical Methods**: Implement numerical algorithms for solving problems related to weather and climate analysis
+  
+_Note: There may be some overlap in each section as certain techniques and methodologies are applicable across multiple aspects of weather and climate data analysis._
+Each directory contains a short table of contents listing projects along with extended descriptions to provide a clear overview of the contents.
 
 ## Usage
 
