@@ -1,3 +1,6 @@
+![Weather and Climate Data Analysis]([https://example.com/banner-image.jpg](https://images.unsplash.com/photo-1522005013474-00fd3a7303af?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80
+))
+
 # Weather and Climate Data Analysis Sample Code
 
 Welcome to my repository! This repository contains sample code showcasing techniques and methodologies for analyzing weather and climate data that I've developed for classes or research.
