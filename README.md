@@ -15,8 +15,18 @@ This repository serves as a demonstration of my proficiency in handling weather 
 - **Machine Learning**: Demonstrate machine learning techniques for weather forecasting, climate modeling, and predictive analytics.
 - **Numerical Methods**: Implement numerical algorithms for solving problems related to weather and climate analysis
   
-_Note: There may be some overlap in each section as certain techniques and methodologies are applicable across multiple aspects of weather and climate data analysis.
-Each directory contains a short table of contents listing projects along with extended descriptions to provide a clear overview of the contents._
+_Note: There may be some overlap in each section as certain techniques and methodologies are applicable across multiple aspects of weather and climate data analysis._
+
+### List of Projects
+
+1. [Data Preprocessing](#data-process)
+2. [Visualization](#visualization)
+3. [Statistical Analysis](analysis)
+   - [Are two sample variances different? (F-Test)](analysis/ftest.ipynb)
+   - [Do Nino3.4 indices lead to significant SLP differences?](analysis/aos575h1q1.ipynb)
+4. [Machine Learning](#ml)
+5. [Numerical Methods](numerical_methods)
+   - [Recursive rootfinding algorithm](numerical_methods/root_finding.py)
 
 ## Contact
 
