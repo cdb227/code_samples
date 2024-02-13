@@ -14,18 +14,8 @@ This repository serves as a demonstration of my proficiency in handling weather 
 - **Machine Learning**: Demonstrate machine learning techniques for weather forecasting, climate modeling, and predictive analytics.
 - **Numerical Methods**: Implement numerical algorithms for solving problems related to weather and climate analysis
   
-_Note: There may be some overlap in each section as certain techniques and methodologies are applicable across multiple aspects of weather and climate data analysis._
-Each directory contains a short table of contents listing projects along with extended descriptions to provide a clear overview of the contents.
-
-## Usage
-
-Feel free to explore the code provided in this repository to gain insights into my data analysis skills. Each directory contains code related to a specific topic or technique, along with detailed documentation and comments to guide you through the process.
-
-To get started:
-
-1. Clone this repository to your local machine using `git clone`.
-2. Navigate to the desired directory to explore specific topics or examples.
-3. Follow the instructions provided in the README files within each directory to run the code and understand the analysis techniques used.
+_Note: There may be some overlap in each section as certain techniques and methodologies are applicable across multiple aspects of weather and climate data analysis.
+Each directory contains a short table of contents listing projects along with extended descriptions to provide a clear overview of the contents._
 
 ## Contact
 
