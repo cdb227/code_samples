@@ -1,33 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    .banner {
-      position: relative;
-      text-align: center;
-      color: white; /* Set text color to white for better visibility */
-    }
-    .background {
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      z-index: -1; /* Ensure the background stays behind other content */
-    }
-    h1 {
-      position: relative; /* Ensure the title stays on top of the background */
-      z-index: 1; /* Ensure the title stays on top of the background */
-    }
-  </style>
-</head>
-<body>
-  <div class="banner">
-    <img class="background" src="https://github.com/cdb227/bm3_forced_barotropic/blob/main/images/overview.gif" alt="animated" />
+<!-- Add a background image -->
+<div style="background-image: url('https://github.com/cdb227/bm3_forced_barotropic/blob/main/images/overview.gif'); background-size: cover; text-align: center; color: white;">
+    <!-- Add your title -->
     <h1>Weather and Climate Data Analysis Sample Code</h1>
-  </div>
-</body>
-</html>
+</div>
 
 
 Welcome to my repository! This repository contains sample code showcasing techniques and methodologies for analyzing weather and climate data that I've developed for classes or research.
