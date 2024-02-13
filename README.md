@@ -1,8 +1,4 @@
-<!-- Add a background image -->
-<div style="background-image: url('https://github.com/cdb227/bm3_forced_barotropic/blob/main/images/overview.gif'); background-size: cover; text-align: center; color: white;">
-    <!-- Add your title -->
-    <h1>Weather and Climate Data Analysis Sample Code</h1>
-</div>
+<img src="https://github.com/cdb227/code_samples/blob/main/ghbanner.png" alt="Banner Image">
 
 
 Welcome to my repository! This repository contains sample code showcasing techniques and methodologies for analyzing weather and climate data that I've developed for classes or research.
