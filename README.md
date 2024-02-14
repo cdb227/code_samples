@@ -23,7 +23,6 @@ _Note: There may be some overlap in each section as certain techniques and metho
 2. [Visualization](#visualization)
 3. [Statistical Analysis](analysis)
    - [Are two sample variances different? (F-Test)](analysis/ftest.ipynb)
-   - [Do Nino3.4 indices lead to significant SLP differences?](analysis/aos575h1q1.ipynb)
 4. [Machine Learning](#ml)
 5. [Numerical Methods](numerical_methods)
    - [Recursive rootfinding algorithm](numerical_methods/root_finding.py)
