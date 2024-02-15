@@ -9,7 +9,7 @@ This repository serves as a demonstration of my proficiency in handling weather 
 
 ## Contents
 
-- **Data Preprocessing**: Explore techniques for cleaning, filtering, and preparing weather and climate datasets for analysis.
+- **Data Preprocessing**: Explore techniques for retrieving, cleaning, filtering, and preparing weather and climate datasets for analysis.
 - **Visualization**: More involved scripts for weather and climate data visualizations.
 - **Statistical Analysis**: Apply statistical methods to analyze weather data, including descriptive statistics, correlation analysis, and trend detection.
 - **Machine Learning**: Demonstrate machine learning techniques for weather forecasting, climate modeling, and predictive analytics.
@@ -19,12 +19,13 @@ _Note: There may be some overlap in each section as certain techniques and metho
 
 ### List of Projects
 
-1. [Data Preprocessing](#data-process)
-2. [Visualization](#visualization)
-3. [Statistical Analysis](analysis)
+1. [Data Preprocessing](#processing)
+   - [Retrieving subsets of real time ensemble data from ECMWF](processing/ecmwf-dl-singletime.ipynb)
+3. [Visualization](#visualization)
+4. [Statistical Analysis](analysis)
    - [Are two sample variances different? (F-Test)](analysis/ftest.ipynb)
-4. [Machine Learning](#ml)
-5. [Numerical Methods](numerical_methods)
+5. [Machine Learning](#ml)
+6. [Numerical Methods](numerical_methods)
    - [Recursive rootfinding algorithm](numerical_methods/root_finding.py)
 
 ## Contact
