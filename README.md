@@ -19,8 +19,8 @@ _Note: There may be some overlap in each section as certain techniques and metho
 
 ### List of Projects
 
-1. [Data Preprocessing](#processing)
-   - [Retrieving subsets of real time ensemble data from ECMWF](processing/ecmwf-dl-singletime.ipynb)
+1. [Data Preprocessing](processing)
+   - [Retrieving subsets of real time ensemble data from ECMWF](processing/ecmwf-ens-dl-singletime.sh)
 3. [Visualization](#visualization)
 4. [Statistical Analysis](analysis)
    - [Are two sample variances different? (F-Test)](analysis/ftest.ipynb)
