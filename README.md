@@ -21,11 +21,12 @@ _Note: There may be some overlap in each section as certain techniques and metho
 
 1. [Data Preprocessing](processing)
    - [Retrieving subsets of real time ensemble data from ECMWF](processing/ecmwf-ens-dl-singletime.sh)
-3. [Visualization](#visualization)
-4. [Statistical Analysis](analysis)
+3. [Visualization](visualizations)
+   - [Toy Barotropic Model Animations](visualizations/visualization_descriptions.md)
+5. [Statistical Analysis](analysis)
    - [Are two sample variances different? (F-Test)](analysis/ftest.ipynb)
-5. [Machine Learning](#ml)
-6. [Numerical Methods](numerical_methods)
+6. [Machine Learning](#ml)
+7. [Numerical Methods](numerical_methods)
    - [Recursive rootfinding algorithm](numerical_methods/root_finding.py)
 
 ## Contact
