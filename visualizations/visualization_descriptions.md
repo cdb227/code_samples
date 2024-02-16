@@ -20,5 +20,5 @@ An example 4-week integration of the model is displayed below. The animation dep
 #### Ensemble Run
 The animation below illustrates a 10-member ensemble run of the model. Ensemble members decorrelate over time via the forcing term. The point in the domain with the largest variance at t=T is selected and ensemble members are traced back to their origin locations. Lines change color based on ensemble member temperature at each time step, while dashed contours represent the equilibrium temperature structure. Dots indicate initial temperature of the ensemble member. This visualization shows the memory in temperature and how it leads to ensemble spread via advection.
 
-![Ensemble Run](https://github.com/cdb227/code_samples/blob/main/visualizations/barotropic_ensemble.gif)
+<img src="https://github.com/cdb227/code_samples/blob/main/visualizations/barotropic_ensemble.gif" alt="Ensemble Run" width="500">
 
