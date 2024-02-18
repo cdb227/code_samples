@@ -24,10 +24,11 @@ _Note: There may be some overlap in each section as certain techniques and metho
 3. [Visualization](visualizations)
    - [Toy barotropic model animations](visualizations/visualization_descriptions.md)
 5. [Statistical Analysis](analysis)
+   - [Clustering probaility density functions to derive Arctic radiative regions](analysis/cluster_arcticpdfs.ipynb)
    - [Enhancing realism in synthetically generated cloud spatial patterns](analysis/cloudcorr_walkthrough.ipynb)
    - [Are two sample variances different? (F-Test)](analysis/ftest.ipynb)
 7. [Machine Learning](ml)
-   - [Use satellite footprint overlap to detect clouds at a superresolution](ml/train_overlapping_cmask.py)
+   - [Use satellite footprint overlap to detect clouds at a super-resolution](ml/train_overlapping_cmask.py)
 8. [Numerical Methods](numerical_methods)
    - [Recursive rootfinding algorithm](numerical_methods/root_finding.py)
 
