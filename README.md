@@ -31,6 +31,11 @@ _Note: There may be some overlap in each section as certain techniques and metho
    - [Use satellite footprint overlap to detect clouds at a super-resolution](ml/train_overlapping_cmask.py)
 8. [Numerical Methods](numerical_methods)
    - [Recursive rootfinding algorithm](numerical_methods/root_finding.py)
+  
+
+##### Projects to be included
+- Efficient regridding of polar-orbiting satellite data
+- Better communicating risk of flash-freezing through non-Gaussian ensembles
 
 ## Contact
 
