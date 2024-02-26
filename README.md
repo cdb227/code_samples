@@ -21,6 +21,7 @@ _Note: There may be some overlap in each section as certain techniques and metho
 
 1. [Data Preprocessing](processing)
    - [Retrieving subsets of real time ensemble data from ECMWF](processing/ecmwf-ens-dl-singletime.sh)
+   - [Sampling reanalysis data based on local-time for satellite co-location](processing/localtime_conversion.ipynb)
 3. [Visualization](visualizations)
    - [Toy barotropic model animations](visualizations/visualization_descriptions.md)
 5. [Statistical Analysis](analysis)
